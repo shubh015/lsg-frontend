@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const layout: React.FC<React.PropsWithChildren> = ({ children }) => {
   return <>{children}</>;
