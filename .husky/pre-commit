@@ -1,3 +1,2 @@
 yarn lint-staged
-yarn prettier
 yarn build
