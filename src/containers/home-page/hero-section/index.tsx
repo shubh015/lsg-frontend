@@ -8,7 +8,7 @@ import React from 'react';
 const HeroSection = () => {
   return (
     <div>
-      <div className="bg-gray-400">
+      <div className="bg-gray-400 ">
         <Header />
       </div>
       <div className="bg-black">
